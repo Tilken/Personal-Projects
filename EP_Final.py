@@ -1,6 +1,5 @@
-# Exercicio Programa Calculo Numerico
+# Exercicio Programa Calculo Numerico USP
 # Felipe Tilkian de Carvalho 
-# Numero USP : 9318696
 
 # Importação de bibliotecas necessárias
 
